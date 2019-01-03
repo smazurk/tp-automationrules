@@ -1,1 +1,1 @@
-Size Dropdown CF to Developer Effort (default role) in Targetprocess
+Size Dropdown CF to InitialEstimate for Features in Targetprocess

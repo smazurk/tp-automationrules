@@ -1,4 +1,5 @@
-Automation Rule in Targetprocess
-Size Dropdown CF to built-in field
--InitialEstimate for Features
--Dev Effort for User Stories
+Automation Rule in Targetprocess <br>
+Size Dropdown CF to built-in field <br>
+-InitialEstimate for Features <br>
+-Dev Effort for User Stories <br>
+ 
